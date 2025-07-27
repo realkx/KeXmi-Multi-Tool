@@ -1,6 +1,6 @@
 # KeXmi Multi-Tool
 # Version: 1.0
-# Author: realxk
+# Author: realkx
 
 KeXmi is a powerful, all-in-one multi-tool designed for network diagnostics, OSINT tasks, and various everyday utilities. With a sleek terminal interface and clear navigation, KeXmi combines essential tools into one lightweight and easy-to-use Python application.
 
