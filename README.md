@@ -38,14 +38,5 @@ KeXmi is a powerful, all-in-one multi-tool designed for network diagnostics, OSI
 
 15 String Length Counter — Count characters in any string
 
-# 📦 Installation
-git clone https://github.com/realxk/KeXmi-Multi-Tool
-
-cd KeXmi-Multi-Tool
-
-python main.py
-
-Note: Requires Python 3.x and some external libraries. See requirements.txt.
-
 # 🐞 Issues
 If you encounter any issues, please report them on GitHub under the Issues tab.
