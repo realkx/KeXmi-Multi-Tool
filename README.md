@@ -1,5 +1,5 @@
 # KeXmi Multi-Tool
-<img width="958" height="477" alt="image" src="https://github.com/user-attachments/assets/037d9048-b8a1-4fb7-9968-cb6b29bd0889" />
+<img width="955" height="476" alt="image" src="https://github.com/user-attachments/assets/8ddd9a04-614c-424d-8168-10c4ba33427c" />
 
 # Version: 1.0
 # Author: realkx
